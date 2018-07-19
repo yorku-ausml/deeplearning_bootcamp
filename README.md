@@ -16,15 +16,15 @@
 | Date       | Host           | Topic                      |
 |:----------:|:---------------|:---------------------------|
 | 2018/07/26 | -              |                            |
-| 2018/08/02 | Afnan          | Summary (Course 2, week 1) |
+| 2018/08/02 | Afnan          | Summary (Coursera - Course 2, week 1) |
 | 2018/08/09 | -              |                            |
-| 2018/08/16 | Jungwon        | Summary (Course 2, week 2) |
+| 2018/08/16 | Jungwon        | Summary (Coursera - Course 2, week 2) |
 | 2018/08/23 | -              |                            |
-| 2018/08/30 | Kang           | Summary (Course 2, week 3) |
+| 2018/08/30 | Kang           | Summary (Coursera - Course 2, week 3) |
 | 2018/09/06 | -              |                            |
-| 2018/09/13 | Kivanc         | Summary (Course 3, week 1) |
+| 2018/09/13 | Kivanc         | Summary (Coursera - Course 3, week 1) |
 | 2018/09/20 | -              |                            |
-| 2018/09/27 | Kunwoo         | Summary (Course 3, week 2) |
+| 2018/09/27 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
 | 2018/10/04 | -              |                            |
 
 
