@@ -26,6 +26,7 @@
 | 2018/09/20 | -              |                            |
 | 2018/09/27 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
 | 2018/10/04 | -              |                            |
+<br/>
 
 
 ## Course syllabus
