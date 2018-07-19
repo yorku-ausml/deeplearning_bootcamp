@@ -1,6 +1,22 @@
 # Deep Learning Bootcamp
 
 
+## Bootcamp Participants
+- Afnan
+- Jungwon
+- Kang
+- Kivanc
+- Kunwoo
+- Pio
+- Yi-Chen
+
+
+## Bootcamp Schedule
+
+
+
+
+
 
 ## Course syllabus
 
