@@ -1,7 +1,7 @@
 # Deep Learning Bootcamp
 
 
-## Bootcamp Participants
+## Participants
 - Afnan
 - Jungwon
 - Kang
@@ -11,7 +11,17 @@
 - Yi-Chen
 
 
-## Bootcamp Schedule
+## Schedule
+
+| Host              | Topic          |
+|:-----------------:|:--------------:|
+| aaa               | bbb            |
+
+
+
+
+
+
 
 
 
