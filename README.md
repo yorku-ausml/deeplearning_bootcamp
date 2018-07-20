@@ -1,12 +1,13 @@
 # Deep Learning Bootcamp
 
 
-## Participants
+## Participants (By alphabet order)
 - Afnan
 - Jungwon
 - Kang
 - Kivanc
 - Kunwoo
+- Maryam
 - Pio
 - Yi-Chen
 <br/>
@@ -14,19 +15,28 @@
 
 ## Schedule
 
-| Date       | Host           | Topic                      |
-|:----------:|:--------------:|:---------------------------|
-| 2018/07/26 | -              |                            |
-| 2018/08/02 | Afnan          | Summary (Coursera - Course 2, week 1) |
-| 2018/08/09 | -              |                            |
-| 2018/08/16 | Jungwon        | Summary (Coursera - Course 2, week 2) |
-| 2018/08/23 | -              |                            |
-| 2018/08/30 | Kang           | Summary (Coursera - Course 2, week 3) |
-| 2018/09/06 | -              |                            |
-| 2018/09/13 | Kivanc         | Summary (Coursera - Course 3, week 1) |
-| 2018/09/20 | -              |                            |
-| 2018/09/27 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
-| 2018/10/04 | -              |                            |
+| Date       | Host           | Topic                                 |
+|:----------:|:--------------:|:--------------------------------------|
+| 2018/07/26 | -              | TBD                                   |
+| 2018/08/02 | -              | TBD                                   |
+| 2018/08/09 | Afnan          | Summary (Coursera - Course 2, week 1) |
+| 2018/08/16 | -              | TBD                                   |
+| 2018/08/23 | Jungwon        | Summary (Coursera - Course 2, week 2) |
+| 2018/08/30 | -              | TBD                                   |
+| 2018/09/06 | Kang           | Summary (Coursera - Course 2, week 3) |
+| 2018/09/13 | -              | TBD                                   |
+| 2018/09/20 | Kivanc         | Summary (Coursera - Course 3, week 1) |
+| 2018/09/27 | -              | TBD                                   |
+| 2018/10/04 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
+| 2018/10/11 | -              | TBD                                   |
+| 2018/10/18 | Maryam         | Summary (Coursera - Course 4, week 1) |
+| 2018/10/25 | -              | TBD                                   |
+| 2018/11/01 | Pio            | Summary (Coursera - Course 4, week 2) |
+| 2018/11/08 | -              | TBD                                   |
+| 2018/11/15 | Yi-Chen        | Summary (Coursera - Course 4, week 3) |
+| 2018/11/22 | -              | TBD                                   |
+| 2018/11/29 | Afnan          | Summary (Coursera - Course 4, week 4) |
+
 <br/>
 
 
