@@ -51,6 +51,7 @@
 | Muhammad   |           |           |           |           |           |
 | Pio        | Completed |           |           |           |           |
 | Yi-Chen    |           |           |           |           |           |
+<br/>
 
 
 ## Coursera Course syllabus
