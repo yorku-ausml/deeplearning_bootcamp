@@ -3,7 +3,7 @@
 
 ## Participants (By alphabet order)
 - Afnan
-- Jungwon
+- [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)
 - Kang
 - Kivanc
 - Kunwoo
@@ -43,7 +43,8 @@
 | Date       | Course 1  | Course 2  | Course 3  | Course 4  | Course 5  |
 |:----------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | Afnan      | Completed |           |           |           |           |
-| Jungwon    |           |           |           |           |           |
+| [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)
+             |           |           |           |           |           |
 | Kang       |           |           |           |           |           |
 | Kivanc     |           |           |           |           |           |
 | Kunwoo     |           |           |           |           |           |
