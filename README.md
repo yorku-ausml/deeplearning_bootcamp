@@ -8,6 +8,7 @@
 - Kivanc
 - Kunwoo
 - Maryam
+- Muhammad
 - Pio
 - Yi-Chen
 <br/>
@@ -31,11 +32,11 @@
 | 2018/10/11 | -              | TBD                                   |
 | 2018/10/18 | Maryam         | Summary (Coursera - Course 4, week 1) |
 | 2018/10/25 | -              | TBD                                   |
-| 2018/11/01 | Pio            | Summary (Coursera - Course 4, week 2) |
+| 2018/11/01 | Muhammad       | Summary (Coursera - Course 4, week 2) |
 | 2018/11/08 | -              | TBD                                   |
-| 2018/11/15 | Yi-Chen        | Summary (Coursera - Course 4, week 3) |
+| 2018/11/15 | Pio            | Summary (Coursera - Course 4, week 3) |
 | 2018/11/22 | -              | TBD                                   |
-| 2018/11/29 | Afnan          | Summary (Coursera - Course 4, week 4) |
+| 2018/11/29 | Yi-Chen        | Summary (Coursera - Course 4, week 4) |
 
 <br/>
 
@@ -102,4 +103,8 @@
 - week 3: Sequence models & Attention mechanism
   - Programming Assignment: Neural Machine Translation with Attention
   - Programming Assignment: Trigger word detection
+<br/>
+
+## References
+https://github.com/Kulbear/deep-learning-coursera
 
