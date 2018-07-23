@@ -40,18 +40,17 @@
 <br/>
 
 ## Individual Progress of Course Completion
-| Date       | Course 1  | Course 2  | Course 3  | Course 4  | Course 5  |
-|:----------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-| Afnan      | Completed |           |           |           |           |
-| [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)
-             |           |           |           |           |           |
-| Kang       |           |           |           |           |           |
-| Kivanc     |           |           |           |           |           |
-| Kunwoo     |           |           |           |           |           |
-| Maryam     | Completed |           |           |           |           |
-| Muhammad   |           |           |           |           |           |
-| Pio        | Completed |           |           |           |           |
-| Yi-Chen    |           |           |           |           |           |
+| Participants                                                             | Course 1  | Course 2  | Course 3  | Course 4  | Course 5  |
+|:------------------------------------------------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| Afnan                                                                    | Completed |           |           |           |           |
+| [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)  |           |           |           |           |           |
+| Kang                                                                     |           |           |           |           |           |
+| Kivanc                                                                   |           |           |           |           |           |
+| Kunwoo                                                                   |           |           |           |           |           |
+| Maryam                                                                   | Completed |           |           |           |           |
+| Muhammad                                                                 |           |           |           |           |           |
+| Pio                                                                      | Completed |           |           |           |           |
+| Yi-Chen                                                                  |           |           |           |           |           |
 <br/>
 
 
