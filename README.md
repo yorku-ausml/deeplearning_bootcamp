@@ -37,13 +37,26 @@
 | 2018/11/15 | Pio            | Summary (Coursera - Course 4, week 3) |
 | 2018/11/22 | -              | TBD                                   |
 | 2018/11/29 | Yi-Chen        | Summary (Coursera - Course 4, week 4) |
-
 <br/>
+
+## Coursera Course syllabus
+| Date       | Course 1  | Course 2  | Course 3  | Course 4  | Course 5  |
+|:----------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| Afnan      | Completed |           |           |           |           |
+| Jungwon    |           |           |           |           |           |
+| Kang       |           |           |           |           |           |
+| Kivanc     |           |           |           |           |           |
+| Kunwoo     |           |           |           |           |           |
+| Maryam     | Completed |           |           |           |           |
+| Muhammad   |           |           |           |           |           |
+| Pio        | Completed |           |           |           |           |
+| Yi-Chen    |           |           |           |           |           |
 
 
 ## Coursera Course syllabus
 
 [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+<br/>
 
 
 ### Course 1: Neural Networks and Deep Learning
