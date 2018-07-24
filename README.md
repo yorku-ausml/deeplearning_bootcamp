@@ -20,23 +20,24 @@
 |:----------:|:--------------:|:--------------------------------------|
 | 2018/07/26 | -              | TBD                                   |
 | 2018/08/02 | -              | TBD                                   |
-| 2018/08/09 | Afnan          | Summary (Coursera - Course 2, week 1) |
-| 2018/08/16 | -              | TBD                                   |
-| 2018/08/23 | Jungwon        | Summary (Coursera - Course 2, week 2) |
-| 2018/08/30 | -              | TBD                                   |
-| 2018/09/06 | Kang           | Summary (Coursera - Course 2, week 3) |
-| 2018/09/13 | -              | TBD                                   |
-| 2018/09/20 | Kivanc         | Summary (Coursera - Course 3, week 1) |
-| 2018/09/27 | -              | TBD                                   |
-| 2018/10/04 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
-| 2018/10/11 | -              | TBD                                   |
-| 2018/10/18 | Maryam         | Summary (Coursera - Course 4, week 1) |
-| 2018/10/25 | -              | TBD                                   |
-| 2018/11/01 | Muhammad       | Summary (Coursera - Course 4, week 2) |
-| 2018/11/08 | -              | TBD                                   |
-| 2018/11/15 | Pio            | Summary (Coursera - Course 4, week 3) |
-| 2018/11/22 | -              | TBD                                   |
-| 2018/11/29 | Yi-Chen        | Summary (Coursera - Course 4, week 4) |
+| 2018/08/09 | -              | TBD                                   |
+| 2018/08/16 | Afnan          | Summary (Coursera - Course 2, week 1) |
+| 2018/08/23 | -              | TBD                                   |
+| 2018/08/30 | Jungwon        | Summary (Coursera - Course 2, week 2) |
+| 2018/09/06 | -              | TBD                                   |
+| 2018/09/13 | Kang           | Summary (Coursera - Course 2, week 3) |
+| 2018/09/20 | -              | TBD                                   |
+| 2018/09/27 | Kivanc         | Summary (Coursera - Course 3, week 1) |
+| 2018/10/04 | -              | TBD                                   |
+| 2018/10/11 | Kunwoo         | Summary (Coursera - Course 3, week 2) |
+| 2018/10/18 | -              | TBD                                   |
+| 2018/10/25 | Maryam         | Summary (Coursera - Course 4, week 1) |
+| 2018/11/01 | -              | TBD                                   |
+| 2018/11/08 | Muhammad       | Summary (Coursera - Course 4, week 2) |
+| 2018/11/15 | -              | TBD                                   |
+| 2018/11/22 | Pio            | Summary (Coursera - Course 4, week 3) |
+| 2018/11/29 | -              | TBD                                   |
+| 2018/12/06 | Yi-Chen        | Summary (Coursera - Course 4, week 4) |
 <br/>
 
 ## Individual Progress of Course Completion
