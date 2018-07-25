@@ -1,7 +1,7 @@
 # Deep Learning Bootcamp
 
 
-## Participants (By alphabet order)
+## Participants (by alphabet order)
 - Afnan
 - Ali
 - Connie
@@ -16,7 +16,7 @@
 <br/>
 
 
-## Schedule
+## Schedule (tentative)
 | Date       | Place      | Host           | Topic                                 |
 |:----------:|:----------:|:--------------:|:--------------------------------------|
 | 2018/07/26 | PSE317     | -              | TBD                                   |
