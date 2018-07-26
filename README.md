@@ -20,11 +20,11 @@
 | Date       | Place      | Host           | Topic                                                                                                             |
 |:----------:|:----------:|:--------------:|:------------------------------------------------------------------------------------------------------------------|
 | 2018/07/26 | PSE317     | -              | [Deep Learning: **Practice** and Trends (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
-| 2018/08/02 |            | -              | TBD                                                                                                               |
-| 2018/08/09 |            | -              | TBD                                                                                                               |
-| 2018/08/16 |            | Afnan          | Summary (Coursera - Course 2, week 1)                                                                             |
-| 2018/08/23 |            | -              | TBD                                                                                                               |
-| 2018/08/30 |            | Connie         | Summary (Coursera - Course 2, week 2)                                                                             |
+| 2018/08/02 | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/09 | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/16 | PSE317     | Afnan          | Summary (Coursera - Course 2, week 1)                                                                             |
+| 2018/08/23 | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/30 | PSE317     | Connie         | Summary (Coursera - Course 2, week 2)                                                                             |
 | 2018/09/06 |            | -              | TBD                                                                                                               |
 | 2018/09/13 |            | Jungwon        | Summary (Coursera - Course 2, week 3)                                                                             |
 | 2018/09/20 |            | -              | TBD                                                                                                               |
