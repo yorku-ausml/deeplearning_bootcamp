@@ -17,31 +17,31 @@
 
 
 ## Schedule (tentative)
-| Date       | Place      | Host           | Topic                                                                                                             |
-|:----------:|:----------:|:--------------:|:------------------------------------------------------------------------------------------------------------------|
-| 2018/07/26 | PSE317     | -              | [Deep Learning: **Practice** and Trends (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
-| 2018/08/02 | PSE317     | -              | TBD                                                                                                               |
-| 2018/08/09 | PSE317     | -              | TBD                                                                                                               |
-| 2018/08/16 | PSE317     | Afnan          | Summary (Coursera - Course 2, week 1)                                                                             |
-| 2018/08/23 | PSE317     | -              | TBD                                                                                                               |
-| 2018/08/30 | PSE317     | Connie         | Summary (Coursera - Course 2, week 2)                                                                             |
-| 2018/09/06 |            | -              | TBD                                                                                                               |
-| 2018/09/13 |            | Jungwon        | Summary (Coursera - Course 2, week 3)                                                                             |
-| 2018/09/20 |            | -              | TBD                                                                                                               |
-| 2018/09/27 |            | Kang           | Summary (Coursera - Course 3, week 1)                                                                             |
-| 2018/10/04 |            | -              | TBD                                                                                                               |
-| 2018/10/11 |            | Kivanc         | Summary (Coursera - Course 3, week 2)                                                                             |
-| 2018/10/18 |            | -              | TBD                                                                                                               |
-| 2018/10/25 |            | Kunwoo         | Summary (Coursera - Course 4, week 1)                                                                             |
-| 2018/11/01 |            | -              | TBD                                                                                                               |
-| 2018/11/08 |            | Maryam         | Summary (Coursera - Course 4, week 2)                                                                             |
-| 2018/11/15 |            | -              | TBD                                                                                                               |
-| 2018/11/22 |            | Muhammad       | Summary (Coursera - Course 4, week 3)                                                                             |
-| 2018/11/29 |            | -              | TBD                                                                                                               |
-| 2018/12/06 |            | Pio            | Summary (Coursera - Course 4, week 4)                                                                             |
-| 2018/12/13 |            | -              | TBD                                                                                                               |
-| 2018/12/20 |            | Yi-Chen        | Summary (Coursera - Course 5, week 1)                                                                             |
-| 2018/12/27 |            | -              | TBD                                                                                                               |
+| Date           | Place      | Host           | Topic                                                                                                             |
+|:--------------:|:----------:|:--------------:|:------------------------------------------------------------------------------------------------------------------|
+| **2018/07/26** | PSE317     | -              | [Deep Learning: **Practice** and Trends (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
+| 2018/08/02     | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/09     | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/16     | PSE317     | Connie         | Summary (Coursera - Course 2, week 1)                                                                             |
+| 2018/08/23     | PSE317     | -              | TBD                                                                                                               |
+| 2018/08/30     | PSE317     | Jungwon        | Summary (Coursera - Course 2, week 2)                                                                             |
+| 2018/09/06     |            | -              | TBD                                                                                                               |
+| 2018/09/13     |            | Kang           | Summary (Coursera - Course 2, week 3)                                                                             |
+| 2018/09/20     |            | -              | TBD                                                                                                               |
+| 2018/09/27     |            | Kivanc         | Summary (Coursera - Course 3, week 1)                                                                             |
+| 2018/10/04     |            | -              | TBD                                                                                                               |
+| 2018/10/11     |            | Kunwoo         | Summary (Coursera - Course 3, week 2)                                                                             |
+| 2018/10/18     |            | -              | TBD                                                                                                               |
+| 2018/10/25     |            | Maryam         | Summary (Coursera - Course 4, week 1)                                                                             |
+| 2018/11/01     |            | -              | TBD                                                                                                               |
+| 2018/11/08     |            | Muhammad       | Summary (Coursera - Course 4, week 2)                                                                             |
+| 2018/11/15     |            | -              | TBD                                                                                                               |
+| 2018/11/22     |            | Pio            | Summary (Coursera - Course 4, week 3)                                                                             |
+| 2018/11/29     |            | -              | TBD                                                                                                               |
+| 2018/12/06     |            | Yi-Chen        | Summary (Coursera - Course 4, week 4)                                                                             |
+| 2018/12/13     |            | -              | TBD                                                                                                               |
+| 2018/12/20     |            | Afnan          | Summary (Coursera - Course 5, week 1)                                                                             |
+| 2018/12/27     |            | -              | TBD                                                                                                               |
 <br/>
 
 
