@@ -21,7 +21,7 @@
 |:--------------:|:----------:|:--------------:|:------------------------------------------------------------------------------------------------------------------|
 | **2018/07/26** | PSE317     | -              | [Deep Learning: **Practice** and Trends (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
 | **2018/08/02** | PSE312     | -              | [Deep Learning: Practice and **Trends** (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
-| 2018/08/09     | PSE317     | -              | TBD                                                                                                               |
+| **2018/08/09** | PSE312     | -              | [Visual Recognition and Beyond (CVPR 2018 Tutorial)](https://youtu.be/m60uJVIE4Ys)                                |
 | 2018/08/16     | PSE317     | Jungwon        | Summary (Coursera - Course 2, week 1)                                                                             |
 | 2018/08/23     | PSE317     | -              | TBD                                                                                                               |
 | 2018/08/30     | PSE317     | Kang           | Summary (Coursera - Course 2, week 2)                                                                             |
