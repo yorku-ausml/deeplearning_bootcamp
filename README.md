@@ -55,7 +55,7 @@
 | Kivanc                                                                   |           |           |           |           |           |
 | Kunwoo                                                                   |           |           |           |           |           |
 | Maryam                                                                   | Completed |           |           |           |           |
-| Muhammad                                                                 |           |           |           |           |           |
+| Muhammad                                                                 | Completed | Completed | Completed |           |           |
 | Pio                                                                      | Completed |           |           |           |           |
 | Yi-Chen                                                                  |           |           |           |           |           |
 <br/>
