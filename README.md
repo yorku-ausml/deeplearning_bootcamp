@@ -23,7 +23,11 @@
 | **2018/08/02** | PSE312     | -              | [Deep Learning: Practice and **Trends** (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
 | **2018/08/09** | PSE312     | -              | [Visual Recognition and Beyond (CVPR 2018 Tutorial)](https://youtu.be/m60uJVIE4Ys)                                |
 | **2018/08/23** | PSE312     | Jungwon        | [Summary (Coursera - Course 2, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/course2_week1_coursera_deeplearning_jungwon_20180822.pdf) 	|
-| 2018/08/30     | PSE317     | -              | aa <br/> bb                                                                                                               |
+| 2018/08/30     | PSE317     | -              | 
+  [SqueezeSeg: CNN for LiDAR Point Cloud Segmentation](https://youtu.be/Xyn5Zd3lm6s) <br/>
+  [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://youtu.be/Cge-hot0Oc0) <br/>
+  [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://youtu.be/WUOSmAfeXIw) <br/>
+  [Multi-View 3D Object Detection Network for Autonomous Driving](https://youtu.be/ChkgSvxAvMg)                                                                    |
 | 2018/09/06     | PSE317     | Kang           | Summary (Coursera - Course 2, week 2)                                                                             |
 | 2018/09/13     |            | -              | TBD                                                                                                               |
 | 2018/09/20     |            | Kivanc         | Summary (Coursera - Course 2, week 3)                                                                             |
