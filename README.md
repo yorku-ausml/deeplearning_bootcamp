@@ -49,8 +49,8 @@
 | Afnan                                                                    | Completed |           |           |           |           |
 | Ali                                                                      |           |           |           |           |           |
 | Connie                                                                   | Completed |           |           |           |           |
-| [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)  | Completed |           |           |           |           |
-| Kang                                                                     | Completed |           |           |           |           |
+| Jungwon                                                                  | Completed |           |           |           |           |
+| Kang                                                                     | Completed | Completed |           |           |           |
 | Kivanc                                                                   |           |           |           |           |           |
 | Kunwoo                                                                   |           |           |           |           |           |
 | Maryam                                                                   | Completed |           |           |           |           |
