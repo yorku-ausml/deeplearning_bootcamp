@@ -25,21 +25,21 @@
 | **2018/08/23** | PSE312     | Jungwon        | [Summary (Coursera - Course 2, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/course2_week1_coursera_deeplearning_jungwon_20180822.pdf) 	|
 | **2018/09/06** | PSE312     | Kang           | [Summary (Coursera - Course 2, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/course2_week2_coursera_deeplearning_kangzhao_20180906.pdf) 	|
 | **2018/09/13** | PSE317     | -              | [SqueezeSeg: CNN for LiDAR Point Cloud Segmentation](https://youtu.be/Xyn5Zd3lm6s) <br/> [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://youtu.be/Cge-hot0Oc0) <br/>  [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://youtu.be/WUOSmAfeXIw) <br/> [Multi-View 3D Object Detection Network for Autonomous Driving](https://youtu.be/ChkgSvxAvMg) |  
-| 2018/09/20     | PSE317     | Kivanc         | Summary (Coursera - Course 2, week 3)                                                                             |
-| 2018/09/27     | PSE317     | -              | TBD                                                                                                               |
-| 2018/10/04     |            | Kunwoo         | Summary (Coursera - Course 3, week 1)                                                                             |
-| 2018/10/11     |            | -              | TBD                                                                                                               |
-| 2018/10/18     |            | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
-| 2018/10/25     |            | -              | TBD                                                                                                               |
-| 2018/11/01     |            | Muhammad       | Summary (Coursera - Course 4, week 1)                                                                             |
-| 2018/11/08     |            | -              | TBD                                                                                                               |
-| 2018/11/15     |            | Pio            | Summary (Coursera - Course 4, week 2)                                                                             |
-| 2018/11/22     |            | -              | TBD                                                                                                               |
-| 2018/11/29     |            | Yi-Chen        | Summary (Coursera - Course 4, week 3)                                                                             |
-| 2018/12/06     |            | -              | TBD                                                                                                               |
-| 2018/12/13     |            | Afnan          | Summary (Coursera - Course 4, week 4)                                                                             |
-| 2018/12/20     |            | -              | TBD                                                                                                               |
-| 2018/12/27     |            | Connie         | Summary (Coursera - Course 5, week 1)                                                                             |
+| **2018/09/20** | PSE317     | Kivanc         | Summary (Coursera - Course 2, week 3)                                                                             |
+| 2018/10/03     |            | -              | TBD                                                                                                               |
+| 2018/10/10     |            | Kunwoo         | Summary (Coursera - Course 3, week 1)                                                                             |
+| 2018/10/17     |            | -              | TBD                                                                                                               |
+| 2018/10/24     |            | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
+| 2018/10/31     |            | -              | TBD                                                                                                               |
+| 2018/11/07     |            | Muhammad       | Summary (Coursera - Course 4, week 1)                                                                             |
+| 2018/11/14     |            | -              | TBD                                                                                                               |
+| 2018/11/21     |            | Pio            | Summary (Coursera - Course 4, week 2)                                                                             |
+| 2018/11/28     |            | -              | TBD                                                                                                               |
+| 2018/12/05     |            | Yi-Chen        | Summary (Coursera - Course 4, week 3)                                                                             |
+| 2018/12/12     |            | -              | TBD                                                                                                               |
+| 2018/12/19     |            | Afnan          | Summary (Coursera - Course 4, week 4)                                                                             |
+| 2018/12/26     |            | -              | TBD                                                                                                               |
+| 2019/01/02     |            | Connie         | Summary (Coursera - Course 5, week 1)                                                                             |
 <br/>
 
 
