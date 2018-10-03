@@ -26,11 +26,11 @@
 | **2018/09/06** | PSE312     | Kang           | [Summary (Coursera - Course 2, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/course2_week2_coursera_deeplearning_kangzhao_20180906.pdf) 	|
 | **2018/09/13** | PSE317     | -              | [SqueezeSeg: CNN for LiDAR Point Cloud Segmentation](https://youtu.be/Xyn5Zd3lm6s) <br/> [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://youtu.be/Cge-hot0Oc0) <br/>  [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://youtu.be/WUOSmAfeXIw) <br/> [Multi-View 3D Object Detection Network for Autonomous Driving](https://youtu.be/ChkgSvxAvMg) |  
 | **2018/09/20** | PSE317     | Kivanc         | Summary (Coursera - Course 2, week 3)                                                                             |
-| 2018/10/03     |            | -              | TBD                                                                                                               |
-| 2018/10/10     |            | Kunwoo         | Summary (Coursera - Course 3, week 1)                                                                             |
-| 2018/10/17     |            | -              | TBD                                                                                                               |
-| 2018/10/24     |            | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
-| 2018/10/31     |            | -              | TBD                                                                                                               |
+| 2018/10/03     | PSE258     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) |
+| 2018/10/10     | PSE258     | Kunwoo         | Summary (Coursera - Course 3, week 1)                                                                             |
+| 2018/10/17     | PSE258     | -              | TBD                                                                                                               |
+| 2018/10/24     | PSE258     | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
+| 2018/10/31     | PSE258     | -              | TBD                                                                                                               |
 | 2018/11/07     |            | Muhammad       | Summary (Coursera - Course 4, week 1)                                                                             |
 | 2018/11/14     |            | -              | TBD                                                                                                               |
 | 2018/11/21     |            | Pio            | Summary (Coursera - Course 4, week 2)                                                                             |
