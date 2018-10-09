@@ -5,13 +5,14 @@
 - Afnan
 - Ali
 - Connie
-- [Jungwon](https://github.com/jungwonkang/study_coursera_deep_learning/)
+- Jungwon
 - Kang
 - Kivanc
 - Kunwoo
 - Maryam
 - Muhammad
 - Pio
+- Razieh
 - Yi-Chen
 <br/>
 
@@ -35,11 +36,11 @@
 | 2018/11/14     |            | -              | TBD                                                                                                               |
 | 2018/11/21     |            | Pio            | Summary (Coursera - Course 4, week 2)                                                                             |
 | 2018/11/28     |            | -              | TBD                                                                                                               |
-| 2018/12/05     |            | Yi-Chen        | Summary (Coursera - Course 4, week 3)                                                                             |
+| 2018/12/05     |            | Razieh         | Summary (Coursera - Course 4, week 3)                                                                             |
 | 2018/12/12     |            | -              | TBD                                                                                                               |
-| 2018/12/19     |            | Afnan          | Summary (Coursera - Course 4, week 4)                                                                             |
+| 2018/12/19     |            | Yi-Chen        | Summary (Coursera - Course 4, week 4)                                                                             |
 | 2018/12/26     |            | -              | TBD                                                                                                               |
-| 2019/01/02     |            | Connie         | Summary (Coursera - Course 5, week 1)                                                                             |
+| 2019/01/02     |            | Afnan          | Summary (Coursera - Course 5, week 1)                                                                             |
 <br/>
 
 
