@@ -32,15 +32,15 @@
 | 2018/10/17     | PSE258     | -              | TBD                                                                                                               |
 | 2018/10/24     | PSE258     | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
 | 2018/10/31     | PSE258     | -              | TBD                                                                                                               |
-| 2018/11/07     |            | Muhammad       | Summary (Coursera - Course 4, week 1)                                                                             |
+| 2018/11/07     |            | Pio            | Summary (Coursera - Course 4, week 1)                                                                             |
 | 2018/11/14     |            | -              | TBD                                                                                                               |
-| 2018/11/21     |            | Pio            | Summary (Coursera - Course 4, week 2)                                                                             |
+| 2018/11/21     |            | Razieh         | Summary (Coursera - Course 4, week 2)                                                                             |
 | 2018/11/28     |            | -              | TBD                                                                                                               |
-| 2018/12/05     |            | Razieh         | Summary (Coursera - Course 4, week 3)                                                                             |
+| 2018/12/05     |            | Yi-Chen        | Summary (Coursera - Course 4, week 3)                                                                             |
 | 2018/12/12     |            | -              | TBD                                                                                                               |
-| 2018/12/19     |            | Yi-Chen        | Summary (Coursera - Course 4, week 4)                                                                             |
+| 2018/12/19     |            | Afnan          | Summary (Coursera - Course 4, week 4)                                                                             |
 | 2018/12/26     |            | -              | TBD                                                                                                               |
-| 2019/01/02     |            | Afnan          | Summary (Coursera - Course 5, week 1)                                                                             |
+| 2019/01/02     |            | Ali            | Summary (Coursera - Course 5, week 1)                                                                             |
 <br/>
 
 
