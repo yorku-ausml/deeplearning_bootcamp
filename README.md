@@ -30,7 +30,7 @@
 | **2018/10/03** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) |
 | **2018/10/10** | PSE312     | Kunwoo         | [Summary (Coursera - Course 3, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C3W1_coursera_deeplearning_kunwoo_20181010.pdf)  |
 | **2018/10/24** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) |
-| 2018/11/07     | PSE258     | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
+| **2018/11/07** | PSE258     | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
 | 2018/11/14     | PSE258     | -              | TBD                                                                                                               |
 | 2018/11/21     | PSE258     | Pio            | Summary (Coursera - Course 4, week 1)                                                                             |
 | 2018/11/28     | PSE258     | -              | TBD                                                                                                               |
@@ -54,7 +54,7 @@
 | Kang                                                                     | Completed | Completed |           |           |           |
 | Kivanc                                                                   |           |           |           |           |           |
 | Kunwoo                                                                   |           |           |           |           |           |
-| Maryam                                                                   | Completed |           |           |           |           |
+| Maryam                                                                   | Completed | Completed | Completed |           |           |
 | Muhammad                                                                 | Completed | Completed | Completed |           |           |
 | Pio                                                                      | Completed |           |           |           |           |
 | Yi-Chen                                                                  |           |           |           |           |           |
