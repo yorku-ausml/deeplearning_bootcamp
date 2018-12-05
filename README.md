@@ -23,23 +23,23 @@
 | **2018/07/26** | PSE317     | -              | [Deep Learning: **Practice** and Trends (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
 | **2018/08/02** | PSE312     | -              | [Deep Learning: Practice and **Trends** (NIPS 2017 Tutorial)](https://youtu.be/YJnddoa8sHk)                       |
 | **2018/08/09** | PSE312     | -              | [Visual Recognition and Beyond (CVPR 2018 Tutorial)](https://youtu.be/m60uJVIE4Ys)                                |
-| **2018/08/23** | PSE312     | Jungwon        | [Summary (Coursera - Course 2, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C2W1_coursera_deeplearning_jungwon_20180822.pdf) 	|
-| **2018/09/06** | PSE312     | Kang           | [Summary (Coursera - Course 2, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C2W2_coursera_deeplearning_kangzhao_20180906.pdf) 	|
+| **2018/08/23** | PSE312     | Jungwon        | [Summary (Coursera - Course 2, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C2W1_coursera_deeplearning_Jungwon_20180822.pdf) 	|
+| **2018/09/06** | PSE312     | Kang           | [Summary (Coursera - Course 2, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C2W2_coursera_deeplearning_Kang_20180906.pdf) 		|
 | **2018/09/13** | PSE317     | -              | [SqueezeSeg: CNN for LiDAR Point Cloud Segmentation](https://youtu.be/Xyn5Zd3lm6s) <br/> [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://youtu.be/Cge-hot0Oc0) <br/>  [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://youtu.be/WUOSmAfeXIw) <br/> [Multi-View 3D Object Detection Network for Autonomous Driving](https://youtu.be/ChkgSvxAvMg) |  
 | **2018/09/20** | PSE317     | Kivanc         | Summary (Coursera - Course 2, week 3)                                                                             |
-| **2018/10/03** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) |
-| **2018/10/10** | PSE312     | Kunwoo         | [Summary (Coursera - Course 3, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C3W1_coursera_deeplearning_kunwoo_20181010.pdf)  |
-| **2018/10/24** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) |
-| **2018/11/07** | PSE258     | Maryam         | Summary (Coursera - Course 3, week 2)                                                                             |
+| **2018/10/03** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) 		|
+| **2018/10/10** | PSE312     | Kunwoo         | [Summary (Coursera - Course 3, week 1)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C3W1_coursera_deeplearning_Kunwoo_20181010.pdf)  	|
+| **2018/10/24** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) 		|
+| **2018/11/07** | PSE258     | Maryam         | [Summary (Coursera - Course 3, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C3W2_coursera_deeplearning_Maryam_20181107.pdf)		|
 | **2018/11/28** | PSE258     | Pio            | Summary (Coursera - Course 4, week 1)                                                                             |
 | 2018/12/05     |            | -              | TBD                                                                                                               |
-| 2018/12/12     |            | Yi-Chen        | Summary (Coursera - Course 4, week 2)                                                                             |
+| 2018/12/12     |            | Afnan          | Summary (Coursera - Course 4, week 2)                                                                             |
 | 2018/12/19     |            | -              | TBD                                                                                                               |
-| 2018/12/26     |            | Afnan          | Summary (Coursera - Course 4, week 3)                                                                             |
-| 2018/01/02     |            | -              | TBD                                                                                                               |
-| 2019/01/09     |            | Ali            | Summary (Coursera - Course 4, week 4)                                                                             |
-| 2019/01/16     |            | -              | TBD                                                                                                               |
-| 2019/01/23     |            | Connie         | Summary (Coursera - Course 5, week 1)                                                                             |
+| 2018/01/09     |            | Connie         | Summary (Coursera - Course 4, week 3)                                                                             |
+| 2018/01/16     |            | -              | TBD                                                                                                               |
+| 2019/01/23     |            | Jungwon        | Summary (Coursera - Course 4, week 4)                                                                             |
+| 2019/01/30     |            | -              | TBD                                                                                                               |
+| 2019/02/06     |            | Kang           | Summary (Coursera - Course 5, week 1)                                                                             |
 <br/>
 
 
