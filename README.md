@@ -32,7 +32,7 @@
 | **2018/10/24** | PSE312     | -              | [Large-scale Graph Representation Learning](https://youtu.be/oQL4E1gK3VU) <br/> [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf) 		|
 | **2018/11/07** | PSE258     | Maryam         | [Summary (Coursera - Course 3, week 2)](https://github.com/yorku-ausml/deeplearning_bootcamp/blob/master/interactive_session_materials/C3W2_coursera_deeplearning_Maryam_20181107.pdf)		|
 | **2018/11/28** | PSE258     | Pio            | Summary (Coursera - Course 4, week 1)                                                                             |
-| 2018/12/05     |            | -              | TBD                                                                                                               |
+| 2018/12/05     |            | -              | [Stanford cs231n - Generative Models](https://youtu.be/5WoItGTWV54)                                               |
 | 2018/12/12     |            | Afnan          | Summary (Coursera - Course 4, week 2)                                                                             |
 | 2018/12/19     |            | -              | TBD                                                                                                               |
 | 2018/01/09     |            | Connie         | Summary (Coursera - Course 4, week 3)                                                                             |
